@@ -44,7 +44,7 @@ THIRD_APPS = [
 ]
 
 MY_APPS = [
-    "property"
+    "property", "address"
 ]
 
 INSTALLED_APPS = DJANGO_APPS + MY_APPS + THIRD_APPS
